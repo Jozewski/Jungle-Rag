@@ -1,0 +1,118 @@
+JUNGLE NAVIGATION GUIDE
+========================
+
+OVERVIEW
+--------
+Navigating a jungle is one of the hardest survival challenges. Dense canopy blocks sunlight,
+terrain is irregular, and landmarks look the same in every direction. Without proper technique,
+even experienced hikers become completely disoriented within minutes. The goal: move deliberately,
+leave markers, and trust systems over instinct.
+
+
+THE CARDINAL RULE: STOP AND THINK FIRST
+----------------------------------------
+When you realize you are lost, STOP. Sit down. Resist the urge to keep moving — random movement
+almost always makes the situation worse. Take a breath, assess what you know:
+- When did you last know exactly where you were?
+- What direction were you moving?
+- What landmarks (rivers, ridgelines, clearings) did you pass?
+- How much daylight do you have left?
+
+Only move when you have a plan.
+
+
+USING THE SUN FOR DIRECTION
+-----------------------------
+Even in a jungle canopy, brief gaps in the trees reveal the sun's position.
+
+- In the Northern Hemisphere: the sun rises roughly east, sets roughly west, and is due south at noon.
+- In the Southern Hemisphere: the sun is due north at noon.
+- Hold a stick vertically in sunlight. Mark the tip of the shadow with a stone (this is West).
+  Wait 15–20 minutes. Mark the new tip. The second mark is East. A line between them is your East-West axis.
+  North is 90 degrees from the East-West line (toward the first mark from your standing position
+  facing East).
+
+
+USING STARS FOR DIRECTION AT NIGHT
+------------------------------------
+If the canopy allows:
+- Northern Hemisphere: Find the North Star (Polaris). It sits directly above magnetic north.
+  Locate the Big Dipper — the two stars forming the outer edge of its cup point directly to Polaris.
+- Southern Hemisphere: Use the Southern Cross. Extend the long axis of the cross 4.5 times
+  in the direction it points — that spot in the sky is due south.
+
+
+FOLLOWING WATERWAYS
+--------------------
+Water is your best navigation aid in the jungle. Rivers and streams:
+1. Always lead somewhere — to larger rivers, the coast, or human settlements.
+2. Provide water, food, and open terrain compared to dense jungle.
+3. Are more likely to be traveled by other people.
+
+Follow a stream downhill consistently. Most jungle rivers eventually reach populated coastal areas
+or meet larger navigable rivers. Do not cross a river unless you have assessed the current.
+Fast-moving water above knee height is dangerous.
+
+IMPORTANT: In mountainous jungles (Amazon headwaters, Borneo), rivers may pass through impassable
+gorges. If blocked, backtrack and find a way around the high ground.
+
+
+TERRAIN FEATURES TO RECOGNIZE
+-------------------------------
+- Ridgelines: Higher ground means more visibility and sometimes landmarks. Following a ridgeline
+  is often easier than fighting through valley brush.
+- Saddles: Low points between two peaks — often natural crossing points and animal trails pass through.
+- Valleys: Funnel toward water but often densely vegetated and marshy.
+- Clearings: Natural clearings may indicate old settlements, landslides, or riverbanks — worth
+  investigating for resources and visibility.
+
+
+MARKING YOUR PATH
+------------------
+Always mark your trail so you can backtrack:
+- Bend or break branches at eye level every 20–30 feet (break toward the direction you came from).
+- Stack rocks in cairns at junctions.
+- Cut arrow marks into tree bark.
+- Tie bright cloth to branches if available.
+
+These markers help rescuers follow your path and allow you to retrace if needed.
+
+
+MOVING THROUGH DENSE JUNGLE
+-----------------------------
+- Use a machete or stick to clear vegetation ahead — never reach into unseen brush with your bare hands.
+- Move at a 45-degree angle to obstacles rather than trying to push straight through.
+- Follow animal trails when possible — they lead to water and represent the path of least resistance.
+- Step on logs, not over them — check what's on the other side first (snakes rest on shaded trail sides).
+- Move slowly and deliberately. Rushing leads to injuries, which become life-threatening in the jungle.
+
+
+SETTING BEARINGS
+-----------------
+If you have a compass:
+1. Identify your destination direction.
+2. Pick a landmark in that direction (a distinctive tree, rock, or clearing) that you can see.
+3. Walk to that landmark.
+4. Re-establish your bearing and pick the next landmark.
+This "landmark-to-landmark" method keeps you on course through dense vegetation that blocks long sightlines.
+
+Without a compass, use the sun/shadow method to re-establish direction every 30–45 minutes.
+
+
+RESCUE VISIBILITY
+------------------
+If you have decided to stay put and wait for rescue:
+- Find or create a clearing — a riverbank or hilltop with open sky.
+- Create a ground-to-air signal: large letters (SOS, X, HELP) using rocks, logs, or bright material —
+  at least 10 feet tall.
+- Signal fires: Green vegetation on a hot fire creates thick white smoke visible for miles.
+  Three fires in a triangle is the universal distress signal.
+
+
+DISTANCE ESTIMATION
+--------------------
+Pace counting: Count every time your left foot hits the ground. For most adults, 100 double-paces =
+approximately 150–160 meters. Calibrate your count by pacing a known distance before relying on it.
+
+Time-distance: Through dense jungle, expect to cover only 0.5–1 km per hour. In open terrain,
+2–3 km per hour is achievable. Plan accordingly — don't overestimate how far you've traveled.

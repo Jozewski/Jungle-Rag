@@ -1,0 +1,128 @@
+JUNGLE SIGNALING AND RESCUE GUIDE
+===================================
+
+THE GOLDEN RULE: STAY PUT
+--------------------------
+Unless you are in immediate danger from flooding, wildlife, or fire, staying in place dramatically
+improves your chances of rescue. Rescuers search from your last known location outward. Moving
+randomly makes you exponentially harder to find. The exception: if you are near water or a
+ridgeline with visibility, move to that position and STAY THERE.
+
+THE RULE OF THREES FOR RESCUE
+-------------------------------
+The international distress signal uses the number THREE:
+- Three fires in a triangle (ideally 30+ feet apart)
+- Three blasts on a whistle
+- Three flashes of a mirror or light
+- Three gunshots (if available)
+
+Repeat signals at regular intervals. Rescuers are trained to listen for repeated signals.
+
+
+SIGNAL FIRES
+-------------
+Fire and smoke are your most powerful visual signals.
+
+DAYTIME: Use smoke. Green, leafy material on a hot fire creates thick white smoke. Black smoke
+from burning rubber, plastic, or oil is even more visible but use these only if you have them.
+Choose a location with open sky above — a riverbank, clearing, or hilltop.
+
+NIGHTTIME: Use flame. A large, bright fire is visible for many miles from aircraft at night.
+Keep fuel stocked so you can ignite it immediately upon hearing aircraft.
+
+Three-fire triangle: Space three fires 30+ feet apart in an open area. The triangular pattern
+is recognized internationally as a distress signal from the air.
+
+IMPORTANT: Keep a "fast fire" kit — pre-built tinder and kindling bundles so you can ignite
+a signal fire within 60 seconds of hearing an aircraft.
+
+
+GROUND-TO-AIR SIGNALS
+-----------------------
+If you have time and materials, create large symbols visible from aircraft. Use rocks, logs,
+bright clothing, or cleared vegetation contrast. Each symbol should be at LEAST 10 feet tall,
+ideally 30+ feet for air visibility.
+
+Standard ground-to-air signals:
+  X   = Need medical assistance
+  V   = Need help / I need assistance
+  ->  = Traveling in this direction
+  SOS = Universal distress signal
+  N   = No / Negative
+  Y   = Yes / Affirmative
+
+Use contrast: light materials on dark ground, or dark materials on light ground.
+Visible contrast is more important than the specific material used.
+
+
+MIRROR SIGNALING
+-----------------
+A signal mirror can be seen up to 10 miles away on a clear day. If you have any reflective
+surface (mirror, phone screen, metallic wrapper, glass):
+1. Hold the reflective surface near your face.
+2. Extend your other arm and make a peace sign (V) with your fingers.
+3. Position the target (aircraft, ship) between your two fingers.
+4. Angle the mirror so reflected sunlight passes through your finger V toward the target.
+5. Flash repeatedly by tilting the mirror slightly back and forth.
+
+For improvised mirrors: punch a small hole in a foil wrapper. Look through the hole at the
+target. Sunlight reflects off the foil around the hole — angle it toward the target.
+
+
+WHISTLE SIGNALS
+----------------
+A loud whistle carries far further than the human voice and requires far less energy.
+Three blasts, pause, three blasts = distress signal.
+One blast = "I am here" / location signal.
+Two blasts = "Come to me."
+
+A plastic whistle is one of the highest-value survival items per gram. A Fox 40 or similar
+pealess whistle works even when wet.
+
+
+RIVER AND WATER SIGNALS
+------------------------
+Rescuers often search along waterways. If you are near a river:
+- Create large symbols on sandbars visible from above.
+- Hang bright material in trees along the bank.
+- Keep a fire burning near the bank.
+- Stamp patterns in sand or mud visible from low-flying aircraft.
+
+
+COMMUNICATION WITH RESCUERS
+-----------------------------
+If you have a working phone:
+- Send your GPS coordinates first (most smartphones show coordinates in the compass or maps app).
+- Conserve battery: enable airplane mode when not actively trying to communicate.
+- SMS often works when voice calls fail in weak signal areas.
+- Emergency services (911, 112 internationally) may be reachable even with zero bars on your carrier.
+
+If you have a satellite messenger (SPOT, Garmin inReach):
+- Activate the SOS function and leave it on.
+- The device transmits your location every few minutes automatically.
+- Move to open sky for best signal.
+
+
+WHAT RESCUERS LOOK FOR
+-----------------------
+Search and rescue teams look for:
+- Signs of disturbance (broken branches, footprints, cleared areas)
+- Smoke
+- Bright colors out of place in the jungle
+- Movement and reflection
+- Three-pattern signals
+
+Help them find you: make your presence large, bright, and distinctive against the jungle background.
+The jungle is dark green — your best signals are bright (orange, yellow, silver) or white.
+
+
+SELF-RESCUE DECISION CRITERIA
+-------------------------------
+Consider self-rescue (moving toward civilization) only when:
+1. You know your location and direction to safety with reasonable certainty.
+2. You have water for the expected journey.
+3. You are physically capable of the journey.
+4. Your shelter location is definitively unsearchable (deep cliff base, underground cave system).
+5. A significant amount of time has passed (3+ days) with no sign of search activity.
+
+If any of these conditions are NOT met, stay put and signal.

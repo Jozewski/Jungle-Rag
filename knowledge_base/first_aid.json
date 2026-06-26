@@ -1,0 +1,102 @@
+{
+  "title": "Jungle First Aid Reference",
+  "version": "1.0",
+  "sections": [
+    {
+      "topic": "Wound Care",
+      "priority": "critical",
+      "content": "In the jungle, even minor wounds can become life-threatening infections within 24-48 hours due to heat, humidity, and the abundance of bacteria. Treat every wound immediately. Clean wounds with the cleanest available water — boiled and cooled is best. Rinse thoroughly for at least 60 seconds, removing all visible debris. Do not close deep puncture wounds — they need to drain. Apply pressure to bleeding wounds with the cleanest material available. Elevate the injured limb above heart level. Cover with a bandage and change it at least twice daily. Signs of infection: increasing redness, swelling, warmth, pus, red streaks radiating from wound, fever. Infected wounds require urgent medical attention.",
+      "key_points": [
+        "Boiled, cooled water is the best wound irrigant available in the jungle",
+        "Never close puncture wounds — allow drainage to prevent abscess",
+        "Change dressings at least every 12 hours",
+        "Red streaks from a wound indicate spreading infection (cellulitis) — medical emergency",
+        "Keep wounds elevated to reduce swelling and slow bacterial spread"
+      ]
+    },
+    {
+      "topic": "Snakebite",
+      "priority": "critical",
+      "content": "Snakebite is a medical emergency. The goal is to reach medical care with antivenom as quickly as possible. Immediately immobilize the bitten limb and keep it below heart level. Remove rings, watches, and tight clothing near the bite site — swelling begins within minutes. Mark the edge of any swelling with a pen or scratch and note the time to track progression. Keep the patient as calm and still as possible — movement increases venom absorption. Do not cut and suck the venom, apply a tourniquet, apply ice or cold packs, apply electric shock, or give aspirin or ibuprofen (they worsen bleeding in hemotoxic envenomations). If possible, note the snake's appearance for medical personnel but do not attempt to catch or kill it — even a dead snake can bite reflexively. Begin moving toward medical help immediately.",
+      "key_points": [
+        "Immobilize and keep bitten limb BELOW heart level",
+        "Remove constrictive jewelry and clothing immediately",
+        "Do NOT cut, suck, tourniquet, or apply ice",
+        "Note snake appearance for antivenom selection",
+        "Move toward medical care as fast as possible"
+      ]
+    },
+    {
+      "topic": "Dehydration",
+      "priority": "high",
+      "content": "Dehydration in the jungle is rapid. High humidity reduces the sensation of thirst, so you may become significantly dehydrated without feeling thirsty. Aim to drink 3-4 liters of purified water per day under normal activity. Signs of mild dehydration: dark urine, headache, reduced mental clarity, fatigue. Signs of severe dehydration: no urination for 8+ hours, extreme fatigue, confusion, sunken eyes, rapid heart rate. Treatment: purified water in small, frequent sips. Do not chug large quantities — it can cause nausea and vomiting. Oral rehydration salts (sugar-salt solution: 1 teaspoon salt + 8 teaspoons sugar per liter of clean water) help restore electrolytes. Coconut water is an excellent natural electrolyte replacement if available.",
+      "key_points": [
+        "Drink 3-4 liters of purified water daily",
+        "Humid conditions mask thirst — drink on schedule, not by feel",
+        "Dark yellow or amber urine indicates dehydration",
+        "Oral rehydration: 1 tsp salt + 8 tsp sugar per liter of clean water",
+        "Coconut water is a natural electrolyte solution"
+      ]
+    },
+    {
+      "topic": "Hypothermia",
+      "priority": "high",
+      "content": "Hypothermia in the jungle? Yes — it is a real risk. Wet clothing combined with night temperatures of 60-65°F and wind chill can cause core body temperature to drop dangerously. Shivering is the first sign of hypothermia and means your body is still fighting. If shivering stops but the person is still cold and confused — this is severe hypothermia, a medical emergency. Treatment: get the person dry and out of wind immediately. Remove wet clothing. Insulate from the ground. Apply heat to core areas: armpits, neck, groin. Warm beverages if the person is conscious and can swallow. Do not rub cold limbs — it drives cold blood to the core. Do not give alcohol — it dilates blood vessels and increases heat loss.",
+      "key_points": [
+        "Wet + wind + 60°F night = hypothermia risk in the jungle",
+        "Shivering is good — it means the body is still thermoregulating",
+        "Dry the person first, then warm them",
+        "Apply heat to armpits, neck, and groin — core warming",
+        "Do not rub extremities or give alcohol"
+      ]
+    },
+    {
+      "topic": "Jungle Foot (Immersion Foot)",
+      "priority": "moderate",
+      "content": "Extended time with wet feet in the jungle causes jungle foot (trench foot or immersion foot). The skin becomes white, wrinkled, and extremely painful. In severe cases, tissue dies. Prevention is everything: dry your feet daily, massage them to restore circulation, elevate them when resting, and change into dry socks or allow feet to air out for at least 30 minutes per day. Treatment: clean, dry, and elevate the feet. Apply gentle warming. Do not walk unnecessarily on affected feet. Open blisters are vulnerable to infection — keep clean and bandaged.",
+      "key_points": [
+        "Remove boots and dry feet for 30+ minutes every day",
+        "Massage feet to maintain circulation",
+        "Keep feet elevated when resting",
+        "Clean and bandage open blisters to prevent infection",
+        "Prevention is far easier than treatment"
+      ]
+    },
+    {
+      "topic": "Fever and Malaria",
+      "priority": "high",
+      "content": "Malaria is transmitted by Anopheles mosquitoes and is one of the leading killers in tropical regions. Symptoms appear 7-30 days after a mosquito bite: fever (often cyclical, spiking every 48-72 hours), chills, severe sweating, headache, muscle aches, nausea. If you develop high fever in the jungle, assume malaria until proven otherwise. Other tropical fevers include dengue (characterized by severe joint and muscle pain — 'breakbone fever'), typhoid, and leptospirosis. Treatment of choice is artemisinin-based combination therapy (ACT) for malaria. Without medication, focus on fever reduction with cool wet cloths, hydration, and rest. Seek medical care urgently. Preventive measures: sleep under mosquito netting, use DEET repellent, wear long sleeves and pants at dusk and dawn.",
+      "key_points": [
+        "Cyclical fever in the jungle — suspect malaria",
+        "Dengue causes severe joint/muscle pain and rash — no specific treatment beyond rest and fluids",
+        "Prevent with DEET repellent, long clothing, and mosquito netting",
+        "Treat fever with cool wet cloths and hydration",
+        "Seek medical care for any high fever lasting more than 24 hours"
+      ]
+    },
+    {
+      "topic": "Insect Stings and Allergic Reactions",
+      "priority": "moderate",
+      "content": "Most insect stings cause local pain and swelling. Clean the area and apply a cool compress. For bee or wasp stings, scrape the stinger out horizontally — do not squeeze or pull it out, which injects more venom. Signs of anaphylaxis (life-threatening allergic reaction): hives spreading across the body, swelling of the face or throat, difficulty breathing, rapid weak pulse, loss of consciousness. Anaphylaxis requires epinephrine (EpiPen) immediately. If no epinephrine is available: lay the person flat, elevate their legs (unless breathing is difficult — then sit them up), keep them calm, use any antihistamine available (diphenhydramine/Benadryl). This will not stop anaphylaxis but may slow progression. Reach medical care immediately.",
+      "key_points": [
+        "Scrape bee stingers out — do not squeeze",
+        "Anaphylaxis signs: spreading hives, throat swelling, difficulty breathing",
+        "Epinephrine is the only effective treatment for anaphylaxis",
+        "Antihistamines may slow but not stop anaphylaxis",
+        "Medical emergency — prioritize evacuation"
+      ]
+    },
+    {
+      "topic": "Psychological Survival",
+      "priority": "high",
+      "content": "The most important survival tool is your mind. The will to survive has been documented as a decisive factor in jungle survival cases. Panic is the enemy — it leads to poor decisions, wasted energy, and escalating fear. When fear spikes, stop all activity and breathe slowly and deeply for 2 minutes. This activates the parasympathetic nervous system and reduces panic. Maintain routine: set tasks for morning, midday, and evening. Even small accomplishments (collecting water, adding to shelter) rebuild confidence. Talk to yourself — narrate tasks out loud. Humans are not built for isolation. Count small wins. Remember that search and rescue teams are likely looking for you. Most jungle survival situations are resolved within 72 hours if standard signaling methods are employed.",
+      "key_points": [
+        "Panic kills — stop, breathe slowly, then act",
+        "Maintain daily routine to preserve mental structure",
+        "Talk out loud to yourself to combat isolation effects",
+        "Count small wins to maintain morale",
+        "Most rescues happen within 72 hours — signal consistently and stay put"
+      ]
+    }
+  ]
+}
